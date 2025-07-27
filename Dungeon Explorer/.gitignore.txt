@@ -29,8 +29,6 @@ TestResult.xml
 !GameTest_Results*
 
 # Visual Studio code coverage results
-*.coverage
-*.coveragexml
 
 # NCrunch
 _NCrunch_*
